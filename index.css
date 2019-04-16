@@ -2,8 +2,14 @@ body {
     background-color: 	#006991;
 }
 
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+
 .responsive {
     width: 100%;
     max-width: 1080px;
     height: auto;
 }
+
